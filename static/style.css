@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("JetBrainsMono-Thin.ttf") format("truetype");
+}
+body {
+    font-family: 'JetBrains Mono', serif;
+    background-color: rgb(38, 38, 38);
+    color: white;
+}
+
+.content {
+    max-width: 30em;
+    margin: auto;
+}
