@@ -7,6 +7,14 @@ body {
     background-color: rgb(38, 38, 38);
     color: white;
 }
+/* improve contrast */
+a {
+    color: #3484f8;
+}
+
+a:visited {
+    color: #b869fa;
+}
 
 .content {
     max-width: 30em;
