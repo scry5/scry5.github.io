@@ -1,6 +1,7 @@
+/* https://www.jetbrains.com/lp/mono/#license */
 @font-face {
     font-family: "JetBrains Mono";
-    src: url("JetBrainsMono-Thin.ttf") format("truetype");
+    src: url("JetBrainsMono-Thin.woff2") format("truetype");
 }
 body {
     font-family: 'JetBrains Mono', serif;
